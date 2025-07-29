@@ -1,4 +1,4 @@
 # odin-recipes
-Some simple recipes for you to follow at home!
+Some recipes for you to try at home!
 
 A very simple project, but still useful for building fundamentals.
